@@ -9,7 +9,7 @@ body {
 
 .container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -32,4 +32,8 @@ body {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+.post {
+    padding: 1em;
 }
