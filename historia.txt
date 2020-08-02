@@ -5,3 +5,5 @@ Un jóven estudiante de ingeniería de 26 años
 que espera terminar pronto su carrera.
 
 Estamos a punto de contar su historia de vida.
+
+Todo empez'o con esta pequea colaboracion a este proyecto open source.
